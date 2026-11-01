@@ -3,7 +3,7 @@
 .footer__menu-link {
   text-decoration: underline;
   text-underline-offset: 4px; 
-  text-decoration-thickness: 1.3px; 
+  text-decoration-thickness: 1.3px;
 }
 
 .header {
@@ -218,7 +218,7 @@
   line-height: 1.15;
   text-decoration: underline;
   text-underline-offset: 5px; 
-  text-decoration-thickness: 1.3px; 
+  text-decoration-thickness: 1.3px;
 }
 
 .about {
